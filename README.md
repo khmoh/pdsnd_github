@@ -1,5 +1,5 @@
 ### Date created
-02/14/2019
+11/15/2019
 
 ### Project Title
 *Udacity Bike-Share Project*
@@ -15,4 +15,8 @@
 ### Credits
 *https://github.com/khmoh/pdsnd_github*
 
-*Thank you to Udacity for creating the challenging project!*
+*https://numpy.org/*
+
+*https://pandas.pydata.org/*
+
+*Thanks to Udacity for creating the challenging project!*
